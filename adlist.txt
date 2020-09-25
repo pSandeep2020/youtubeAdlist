@@ -1,4 +1,4 @@
-### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
+### Youtube Ad-Block-List for PiHole by Psandeep ###
  
 # also blocks:
 # wix.com
